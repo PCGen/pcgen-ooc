@@ -1,0 +1,13 @@
+CAMPAIGN:Legends of Excalibur
+MINVER:6.4
+MINDEVVER:6.04.1
+DEST:DATA
+
+#PUBNAMEWEB:
+SOURCELONG:Legends of Excalibur
+SOURCESHORT:Legends of Excalibur
+SOURCEDATE:2015-01
+ISOGL:YES
+COPYRIGHT:PCGen Sets
+INFOTEXT:Includes Legends of Excalibur Sets and GameMode
+

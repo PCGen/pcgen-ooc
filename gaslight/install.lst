@@ -1,0 +1,13 @@
+CAMPAIGN:Gaslight 1st edition
+MINVER:6.4
+MINDEVVER:6.04.1
+DEST:DATA
+
+#PUBNAMEWEB:
+SOURCELONG:Gaslight 1st edition
+SOURCESHORT:Gaslight 1st edition
+SOURCEDATE:2015-01
+ISOGL:YES
+COPYRIGHT:PCGen Sets
+INFOTEXT:Includes Gaslight 1st edition Sets and GameMode
+
